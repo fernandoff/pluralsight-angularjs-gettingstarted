@@ -1,0 +1,17 @@
+{
+  "name": "after",
+  "version": "1.0.0",
+  "description": "",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "angular-cookies": "^1.7.9",
+    "angular-oauth2": "^4.2.0",
+    "query-string": "^6.12.1"
+  }
+}
